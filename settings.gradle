@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "ARS"
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('/home/nardi/Téléchargements/unityproject/unityLibrary')
