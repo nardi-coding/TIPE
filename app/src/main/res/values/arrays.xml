@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Earth (9.8)</item>
+        <item>Mars (3.7)</item>
+        <item>Moon  (1.62)</item>
+        <item>Jupiter (24.8)</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>9.8</item>
+        <item>3.7</item>
+        <item>1.62</item>
+        <item>24.8</item>
+    </string-array>
+</resources>

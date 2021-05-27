@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Augmented Random Search</string>
+    <string name="train">Train</string>
+    <string name="perturbation">Perturbation</string>
+    <string name="open">Load model</string>
+    <string name="welcome"> >> ARS Implementation</string>
+    <string name="term">Terminal</string>
+    <string name="sett">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="ph">Physics Constants</string>
+    <string name="hp">Hyperparameters</string>
+
+    <string name="gravity">Choose gravity value</string>
+    <string name="game_view_content_description">Game view</string>
+</resources>
